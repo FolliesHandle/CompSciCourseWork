@@ -1,0 +1,8 @@
+aaaaa 
+12345	
+AFECD
+afecd
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
++-*/

@@ -1,0 +1,4 @@
+#!/bin/tcsh -f
+
+cat /user/cse325/Projects/project02.headers
+grep "| $argv[1] $argv[2]" /user/cse325/Projects/project02.data
